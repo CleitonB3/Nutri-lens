@@ -8,8 +8,6 @@ Aplicação web que analisa **fotos de refeições** com inteligência artificia
 ![Nutri Lens](./docs/screenshot.png)
 -->
 
-🔗 **Demo:** [LINK-DO-DEPLOY](LINK-DO-DEPLOY)
-
 ---
 
 ## ✨ Funcionalidades
